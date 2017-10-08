@@ -2,5 +2,6 @@
 #define _LIBMATH_H_
 
 int add(int i ,int j); // only declaration of add function
+int mean(int *pArr , int size); 
 
 #endif
