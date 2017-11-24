@@ -1,0 +1,4 @@
+C_COMPILER = gcc
+SHARED_LIB_FLAG = -fPIC -shared
+ARCHIVE_UTILITY = ar
+DEBUG_FLAG = -g
